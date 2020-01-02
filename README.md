@@ -1,2 +1,2 @@
 # universe
-my first projects
+Parsing of stock market
